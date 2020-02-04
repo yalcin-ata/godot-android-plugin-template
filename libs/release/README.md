@@ -1,0 +1,1 @@
+For release JNI libraries
